@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Today",
+      "description": "Is Wednesday",
+      "id": 8
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Watch me refactor some components",
+      "userId": "118134032848136261669",
+      "id": 10
+    }
+  ]
+}
